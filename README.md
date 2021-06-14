@@ -1,16 +1,8 @@
 # clima
 
-A new Flutter project.
+A Weather Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A modern weather app, which gets the GPS location of the phone and makes API calls to get live data (weather data) from the internet. 
+Not only that but we can also type in any city we want the weather in and it will be able to fetch the weather for us
